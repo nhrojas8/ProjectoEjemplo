@@ -5,3 +5,5 @@ Author: Nixon Herney Rojas Diaz
 
 Lista de archivos:
 main.c
+
+# Docuentacion (DEV 1)
