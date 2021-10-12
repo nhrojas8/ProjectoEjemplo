@@ -6,4 +6,5 @@ Author: Nixon Herney Rojas Diaz
 Lista de archivos:
 main.c
 
-#Documentatacion (DEV 2)
+# Docuentacion (DEV 1)
+# Documentatacion (DEV 2)

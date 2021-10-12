@@ -1,0 +1,22 @@
+git config --list --show-origin
+git config --global user.name "nhrojas8"
+git config --global user.email "nhrojas8@gmail.com"
+
+SSH Key creation and validation
+https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation
+
+$ mkdir ~/.ssh
+$ cd  ~/.ssh
+
+$ ssh-keygen -t rsa -b 4096 -C "nhrojas8@gmail.com"
+$ ssh-keygen -t rsa -C "nhrojas8@gmail.com"
+$ clip < ~/.ssh/id_rsa.pub
+
+
+git status 
+
+
+-Actualizamos el contenido del repositorio local, sin actualizar los archivos, solo se actualizo la metadata
+git fetch
+
+git pull origin main
