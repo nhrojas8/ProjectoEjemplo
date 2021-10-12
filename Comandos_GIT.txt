@@ -20,3 +20,12 @@ git status
 git fetch
 
 git pull origin main
+
+# decarta todos los archivos al ultimo commit
+git reset --hard 
+
+# para descartar cambios solo de un archivo especifico
+git checkout HEAD -- main.c
+
+# ver imagen mas reducida de los commit
+git log --oneline
